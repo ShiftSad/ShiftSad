@@ -4,7 +4,7 @@
 
 **📫 Contato:**
 
-- Discord: Sadness#8666
+- Discord: @shiftsad
 
 **⚒ Linguagens e ferramentas:**
 
