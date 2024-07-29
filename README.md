@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
 
 #
 **📊 Status:**
